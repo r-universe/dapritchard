@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PepSAVIms"]
-	path = PepSAVIms
-	url = https://github.com/dapritchard/pepsavims
-	shallow = true
-	registered = true
