@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "PepSAVIms",
+    "oncran": true
+  }
+]
